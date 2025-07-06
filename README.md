@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm **zinc** 👋
 
-<!--
-**toxxins/toxxins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👨‍💻 **15 year old stack developer**   
+🔧 Experience with **Rust**, **TypeScript**, **Lua**, **PY**, and **C++**  
+⚡ Currently using **Py, Typescript, C++** for development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+I make random projects whenever i feel like it and put it on here.
+
+## ⚡ Fun Facts
+- 💜 Purple is my favorite color.
+- 🎮 I love exploring the mechanics of systems and exploring the vulnerabilities around them.
+- 💻 Always excited to dive deeper into **Rust** and **TypeScript** development.
+
+---
+
+### 📊 **GitHub Stats**
+
+![Profile View Count](https://komarev.com/ghpvc/?username=toxxins&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toxxins&show_icons=true&theme=radical)
+
+---
+
+### 📂 **Notable Projects**
+(i privated all my projects so nun here rn...)
+---
+
+### ✨ **Thanks for visiting my profile!** ✨
+Feel free to explore my repositories and check out some of my projects!
+
+## Contact me:
+@manipulatwr on discord.
+@zincaholic on telegram.
+@toxxins on instagram.
