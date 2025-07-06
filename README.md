@@ -30,7 +30,7 @@ I make random projects whenever i feel like it and put it on here.
 ### ✨ **Thanks for visiting my profile!** ✨
 Feel free to explore my repositories and check out some of my projects!
 
-## Contact me:
-@manipulatwr on discord.
-@zincaholic on telegram.
-@toxxins on instagram.
+# Contact me:
+- @manipulatwr on discord.
+- @zincaholic on telegram.
+- @toxxins on instagram.
