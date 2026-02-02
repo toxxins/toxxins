@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍💻 **15 year old stack developer**   
+👨‍💻 **16 year old stack developer**   
 🔧 Experience with **Rust**, **TypeScript**, **Lua**, **PY**, and **C++**  
 ⚡ Currently using **Py, Typescript, C++** for development
 
@@ -31,6 +31,5 @@ I make random projects whenever i feel like it and put it on here.
 Feel free to explore my repositories and check out some of my projects!
 
 # Contact me:
-- @manipulatwr on discord.
-- @zincaholic on telegram.
+- @countfunds on discord.
 - @toxxins on instagram.
