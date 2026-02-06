@@ -24,7 +24,10 @@ I make random projects whenever i feel like it and put it on here.
 ---
 
 ### 📂 **Notable Projects**
+Xanax Source
 [xanax.wtf - roblox executor](https://github.com/toxxins/xanax.wtf)
+
+Xanax Download
 [xanax/wtf - bootstrapper](https://github.com/toxxins/xanax.wtf-bootstrapper)
 ---
 
