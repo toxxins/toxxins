@@ -24,7 +24,8 @@ I make random projects whenever i feel like it and put it on here.
 ---
 
 ### 📂 **Notable Projects**
-(i privated all my projects so nun here rn...)
+[xanax.wtf - roblox executor](https://github.com/toxxins/xanax.wtf)
+[xanax/wtf - bootstrapper](https://github.com/toxxins/xanax.wtf-bootstrapper)
 ---
 
 ### ✨ **Thanks for visiting my profile!** ✨
